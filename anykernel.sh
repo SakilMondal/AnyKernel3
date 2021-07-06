@@ -33,5 +33,4 @@ ramdisk_compression=auto;
 dump_boot;
 
 write_boot;
-## end install
-
+## end boot install
